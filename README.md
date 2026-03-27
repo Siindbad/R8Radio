@@ -16,3 +16,36 @@ It detects your current Run8 session, reads your in-game location, and follows y
 <p align="center">
   <img src="./assets/r8radio-feature-highlight-v2.png" alt="R8Radio feature highlight" width="920" />
 </p>
+
+## Roadmap
+
+Current planned addon and feature order:
+
+1. BNSF/UP Cajon Sub
+2. BNSF San Bernardino Sub
+3. BNSF Seligman Sub West
+4. BNSF Bakersfield Sub
+5. BNSF-UP Fresno to Modesto
+6. Railway Guide
+
+Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lower priority than the mainline expansion path above.
+
+## Changelogs
+
+### Version 1.0
+
+- First App Release
+- Future addons / fixes will be added in further versions
+
+## Verification suite
+
+Current release verification order:
+
+1. **Build + publish smoke test** : confirms the release artifact is created cleanly and the app opens as expected.
+2. **Microsoft Defender CLI** : preflight scan for the release build before publish.
+3. **VirusTotal** : release evidence check after the final artifact is prepared.
+4. **SHA-256 checksum** : release integrity reference for the shipped file.
+
+## License
+
+MIT License. Copyright (c) 2026 Siindbad.
