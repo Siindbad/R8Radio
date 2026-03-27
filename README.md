@@ -14,5 +14,5 @@ It detects your current Run8 session, reads your in-game location, and follows y
 - Includes simple in-app settings for Run8 path detection
 
 <p align="center">
-  <img src="./assets/r8radio-feature-highlight-v1.png" alt="R8Radio feature highlight" width="920" />
+  <img src="./assets/r8radio-feature-highlight-v2.png" alt="R8Radio feature highlight" width="920" />
 </p>
