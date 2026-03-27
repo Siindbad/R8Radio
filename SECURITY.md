@@ -6,10 +6,10 @@ Generated from `dist/security-report.txt`. Release version: `v1.0`.
 
 | Gate | Status |
 | --- | --- |
-| Build + publish smoke test | PASS / FAIL |
-| Microsoft Defender CLI | PASS / FAIL |
-| VirusTotal | PASS / FAIL |
-| SHA256 | PASS / FAIL |
+| Build + publish smoke test | 🟩 PASS |
+| Microsoft Defender CLI | 🟩 PASS |
+| VirusTotal | 🟩 PASS |
+| SHA256 | 🟩 PASS |
 
 ## VirusTotal Report
 
