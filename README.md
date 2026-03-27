@@ -12,3 +12,7 @@ It detects your current Run8 session, reads your in-game location, and follows y
 - Tracks region and handoff flow as you move
 - Supports live radio feed playback in a compact desktop app
 - Includes simple in-app settings for Run8 path detection
+
+<p align="center">
+  <img src="./assets/r8radio-feature-highlight-v1.png" alt="R8Radio feature highlight" width="920" />
+</p>
