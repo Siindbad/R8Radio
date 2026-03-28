@@ -50,4 +50,4 @@ Current release verification order:
 
 ## License
 
-MIT License. Copyright (c) 2026 Siindbad.
+MIT License. Copyright (c) 2026 Jason Jorgensen.
