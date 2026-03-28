@@ -7,6 +7,7 @@ Generated from `dist/security-report.txt`. Release version: `v1.0`.
 | Gate | Status |
 | --- | --- |
 | Build + publish smoke test | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
+| Microsoft Artifact Signing | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | NuGet vulnerability audit | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | BinSkim | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | Microsoft Defender CLI | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
