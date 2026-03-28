@@ -42,9 +42,10 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 Current release verification order:
 
 1. **Build + publish smoke test** : confirms the release artifact is created cleanly and the app opens as expected.
-2. **Microsoft Defender CLI** : preflight scan for the release build before publish.
-3. **VirusTotal** : release evidence check after the final artifact is prepared.
-4. **SHA-256 checksum** : release integrity reference for the shipped file.
+2. **NuGet vulnerability audit** : checks the project packages for known vulnerable dependencies before release.
+3. **Microsoft Defender CLI** : preflight scan for the release build before publish.
+4. **VirusTotal** : release evidence check after the final artifact is prepared.
+5. **SHA-256 checksum** : release integrity reference for the shipped file.
 
 ## License
 
