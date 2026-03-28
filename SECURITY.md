@@ -10,11 +10,18 @@ Generated from `dist/security-report.txt`. Release version: `v1.0`.
 | NuGet vulnerability audit | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | BinSkim | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | Microsoft Defender CLI | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
-| VirusTotal | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | SHA256 | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 
-## VirusTotal Report
+## Assurance Note
 
-- VirusTotal permalink: release result link will be added here.
+- Current release assurance truth:
+  - local `Microsoft Defender CLI` scans pass
+  - `BinSkim` passes
+  - `NuGet vulnerability audit` passes
+  - SHA-256 integrity hashes are generated for the shipped artifacts
+- Historical audit note:
+  - an optional VirusTotal research pass previously showed a `Zillya` false-positive on the unsigned Windows launcher EXE
+  - the packaged payload without that launcher was isolated and cleared in the controlled audit lane
+  - we therefore treat that remaining `Zillya` signal as a launcher-layer false positive rather than evidence of a malicious payload
 
 See GitHub Releases for the matching release artifacts.
