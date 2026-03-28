@@ -43,9 +43,10 @@ Current release verification order:
 
 1. **Build + publish smoke test** : confirms the release artifact is created cleanly and the app opens as expected.
 2. **NuGet vulnerability audit** : checks the project packages for known vulnerable dependencies before release.
-3. **Microsoft Defender CLI** : preflight scan for the release build before publish.
-4. **VirusTotal** : release evidence check after the final artifact is prepared.
-5. **SHA-256 checksum** : release integrity reference for the shipped file.
+3. **BinSkim** : checks the published Windows binaries for security-oriented binary issues.
+4. **Microsoft Defender CLI** : preflight scan for the release build before publish.
+5. **VirusTotal** : release evidence check after the final artifact is prepared.
+6. **SHA-256 checksum** : release integrity reference for the shipped file.
 
 ## License
 
