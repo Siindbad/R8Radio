@@ -43,7 +43,7 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 Current release verification order:
 
 1. **Build + publish smoke test** : confirms the release artifact is created cleanly and the app opens as expected.
-2. **Microsoft Artifact Signing** : signs the Windows app and installer executables before final release evidence is generated.
+2. **Microsoft Artifact Signing** : signs the Windows app and installer executables.
 3. **NuGet vulnerability audit** : checks the project packages for known vulnerable dependencies before release.
 4. **BinSkim** : checks the published Windows binaries for security-oriented binary issues.
 5. **Microsoft Defender CLI** : preflight scan for the release build before publish.
