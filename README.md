@@ -27,6 +27,7 @@ Current planned addon and feature order:
 4. BNSF Bakersfield Sub
 5. BNSF-UP Fresno to Modesto
 6. Railway Guide
+7. Railway Map
 
 Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lower priority than the mainline expansion path above.
 
