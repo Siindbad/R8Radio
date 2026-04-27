@@ -40,10 +40,12 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.0
+### Version 1.1
 
-- First App Release
-- Future addons / fixes will be added in further versions
+- Added Pre-Flight Loader
+- Added More OTTO Sound Files
+- Added Multi Display Support
+- Fixed Some UDP Issues
 
 ## Verification suite
 
