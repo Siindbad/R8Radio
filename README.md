@@ -40,12 +40,15 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.1
+### Version 1.2
 
-- Added Pre-Flight Loader
-- Added More OTTO Sound Files
-- Added Multi Display Support
-- Fixed Some UDP Issues
+- Fixed Needles Handoff Location
+- SD70 : Accel / Throttle Color Changes
+- ELD Alerter / EOT Fixed
+- Added Vertical Display
+- Hardened Multi-Monitor Support
+- Changed ELD Layout For Vertical View
+- Changed View Buttons On Main UI
 
 ## Verification suite
 
