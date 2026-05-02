@@ -40,15 +40,11 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.2
+### Version 1.3
 
-- Fixed Needles Handoff Location
-- SD70 : Accel / Throttle Color Changes
-- ELD Alerter / EOT Fixed
-- Added Vertical Display
-- Hardened Multi-Monitor Support
-- Changed ELD Layout For Vertical View
-- Changed View Buttons On Main UI
+- Hardened Town To Town With Known Intent
+- Added Tracking Movement For Unknown Intent
+- Gave Alerter More Color
 
 ## Verification suite
 
