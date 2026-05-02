@@ -1,6 +1,6 @@
 # Verification Report
 
-Generated from `dist/security/security-report.txt`. Release version: `v1.3`.
+Generated from `dist/security/security-report.txt`. Release version: `v1.3.1`.
 
 ## Security Gate Status
 
