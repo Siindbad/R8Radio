@@ -40,12 +40,10 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.3.3
+### Version 1.3.4
 
-- Prepared v1.3.3 Update Lane
-- Hotfix : East Amboy Corrected
-- Improved startup handoff detection
-- Added unsupported addon support with Tracking Movement
+- Prepared v1.3.4 Update Lane
+- This update Adds Extra Debugging Info
 
 ## Verification suite
 
