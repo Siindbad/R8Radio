@@ -40,10 +40,12 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.3.1
+### Version 1.3.2
 
-- Prepared v1.3.1 Update Lane
-- Hotfix Route Progression For Town To Town
+- Prepared v1.3.2 Update Lane
+- Hotfix Broadcast Handoff Backtracking
+- Added DPU Error light / ES44
+- Added Coupler Reading Display
 
 ## Verification suite
 
