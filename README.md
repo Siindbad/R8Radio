@@ -40,20 +40,9 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.3.7
+### Version 1.3.8
 
-- ELD : Removed Some Displays Not Needed
-- ELD : Remove Home screen
-- ELD : Increase Coupler View
-- Using New Installer
-- Modified FullScreen Dispatch Message Box
-- Added Few More Otto Voices
-- Fixed Bug Report Window (No Scroll)
-- Fixed Readme Window (No Scroll)
-- Updated Footer Button Wording
-- Added Startup Timeout Prompt
-- New Player : Added BASS : Removed VLC
-- Added More Log Hardening
+- Hotfix ELD Fix
 
 ## Verification suite
 
@@ -72,3 +61,4 @@ Current release verification order:
 ## License
 
 MIT License. Copyright (c) 2026 Jason Jorgensen.
+
