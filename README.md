@@ -40,10 +40,20 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.3.6
+### Version 1.3.7
 
-- Prepared v1.3.6 Update Lane
-- Added multi-instance Run8 player detection
+- ELD : Removed Some Displays Not Needed
+- ELD : Remove Home screen
+- ELD : Increase Coupler View
+- Using New Installer
+- Modified FullScreen Dispatch Message Box
+- Added Few More Otto Voices
+- Fixed Bug Report Window (No Scroll)
+- Fixed Readme Window (No Scroll)
+- Updated Footer Button Wording
+- Added Startup Timeout Prompt
+- New Player : Added BASS : Removed VLC
+- Added More Log Hardening
 
 ## Verification suite
 
@@ -52,9 +62,12 @@ Current release verification order:
 1. **Build + publish smoke test** : confirms the release artifact is created cleanly and the app opens as expected.
 2. **Microsoft Artifact Signing** : signs the Windows app and installer executables.
 3. **NuGet vulnerability audit** : checks the project packages for known vulnerable dependencies before release.
-4. **BinSkim** : checks the published Windows binaries for security-oriented binary issues.
-5. **Microsoft Defender CLI** : preflight scan for the release build before publish.
-6. **SHA-256 checksum** : release integrity reference for the shipped file.
+4. **OSV Scanner** : checks source dependencies for known vulnerabilities.
+5. **Syft SBOM** : creates a software bill of materials for the release artifact.
+6. **Grype vulnerability scan** : scans the release artifact and SBOM for known issues.
+7. **BinSkim** : checks the published Windows binaries for security-oriented binary issues.
+8. **Microsoft Defender CLI** : preflight scan for the release build before publish.
+9. **SHA-256 checksum** : release integrity reference for the shipped file.
 
 ## License
 
