@@ -14,6 +14,7 @@ Generated from `dist/security/security-report.txt`. Release version: `v1.4.0`.
 | Grype vulnerability scan | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | BinSkim | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | Microsoft Defender CLI | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
+| VirusTotal installer scan | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 | SHA256 | ![PASS](https://img.shields.io/badge/PASS-006400?style=flat-square) |
 
 ## Assurance Note
