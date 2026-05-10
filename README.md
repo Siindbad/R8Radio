@@ -40,13 +40,14 @@ Branch-focused routes such as Arvin, Oak Creek, Lone Pine, and Trona remain lowe
 
 ## Changelogs
 
-### Version 1.4.0
+### Version 1.4.1
 
-- ELD : Added New Click Buttons
-- Multi-Session Path Hotfix
-- Added MP Chat viewer
-- More Log Hardening
-- Added More Model Identities
+- Hotfix : Station Reconnect Timers
+- Rework on Startup Loader
+- Rework On Intent Splits
+- Added BNSF Bakers Sub
+- Added UP Fresno Sub
+- Adjusted Volume Control Strength
 
 ## Verification suite
 
